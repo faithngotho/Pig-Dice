@@ -35,4 +35,4 @@ Support and contact details
 Contact me on developer.faithwangari248@gmail.com
 
 License
-Copyright (c) Richard Waweru
+Copyright (c) Faith Ngotho
