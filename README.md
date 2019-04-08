@@ -32,7 +32,7 @@ The first player to get 100 is the Winner!
 4. js
 5. jQuery
 Support and contact details
-Contact me on developer.waweru@gmail.com for any comments, reviews or advice.
+Contact me on developer.faithwangari248@gmail.com
 
 License
 Copyright (c) Richard Waweru
