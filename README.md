@@ -24,9 +24,6 @@ If the output is not a 1, a player will continue to accumulate points and can ho
 An output of one results in a zero of accumulated points.
 
 The first player to get 100 is the Winner!
-Preview
-Click here to see the live site.
-
 
 Technologies Used
 1. HTML
