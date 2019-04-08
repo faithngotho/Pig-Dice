@@ -25,10 +25,10 @@ An output of one results in a zero of accumulated points.
 
 The first player to get 100 is the Winner!
 
-Technologies Used
+##Technologies Used
 1. HTML
 2. Bootstrap
-3. Animate
+3. CSS
 4. js
 5. jQuery
 Support and contact details
