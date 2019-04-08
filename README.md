@@ -1,6 +1,7 @@
 ## Pig-Dice
 Fourth Independent Project for Moringa prep class , April 8th, 2018
 By Faith Ngotho
+
 ##Description
 The Pig-Dice game is a fun game based on two players rolling a dice.
 
@@ -15,6 +16,7 @@ When Hold is pressed, the accumulated points are added to the player's final Sco
 The other player then takes the die over.
 
 ##Specifications
+
 The web application will request the names of two users.
 
 The two players will proceed to roll the dice, by generating a random number from 1 to 6.
@@ -26,6 +28,7 @@ An output of one results in a zero of accumulated points.
 The first player to get 100 is the Winner!
 
 ##Technologies Used
+
 1. HTML
 2. Bootstrap
 3. CSS
