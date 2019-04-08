@@ -2,11 +2,15 @@ body {
   font-family: fantasy;
   background-color: blue;
 }
+h1 {
+  font-size: 5px;
+  color: blue;
+}
 
 input[type=text], select {
   padding: 15px 15px;
   margin: 8px ;
-  display: inline-block;
+
   border: 3px solid blue;
 background-color: blue;
 }
@@ -16,6 +20,5 @@ background-color: blue;
   font-size: 20px;
   padding: 15px 20px;
   margin: 8px 0;
-  border: none;
   border-radius: 4px;
 margin-left: 30px;
