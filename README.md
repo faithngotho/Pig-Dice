@@ -34,8 +34,9 @@ The first player to get 100 is the Winner!
 3. CSS
 4. js
 5. jQuery
-Support and contact details
+
+## Support and contact details
 Contact me on developer.faithwangari248@gmail.com
 
-License
+## License
 Copyright (c) Faith Ngotho
