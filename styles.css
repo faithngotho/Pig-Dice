@@ -1,0 +1,22 @@
+body{
+  font-family: fantasy;
+}
+
+input[type=text], select {
+  padding: 15px 15px;
+  margin: 8px ;
+  display: inline-block;
+  border: 3px solid blue;
+  box-sizing: border-box;
+background-color: blue;
+}
+.btn{
+  background-color: blue;
+  color: black;
+  font-size: 20px;
+  padding: 15px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+margin-left: 30px;
