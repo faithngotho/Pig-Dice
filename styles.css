@@ -1,5 +1,6 @@
-body{
+body {
   font-family: fantasy;
+  background-color: blue;
 }
 
 input[type=text], select {
@@ -7,7 +8,6 @@ input[type=text], select {
   margin: 8px ;
   display: inline-block;
   border: 3px solid blue;
-  box-sizing: border-box;
 background-color: blue;
 }
 .btn{
